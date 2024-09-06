@@ -1,0 +1,17 @@
+{
+  "name": "portfolio-template-main",
+  "version": "1.0.0",
+  "description": "If you're looking to showcase your work in a modern and elegant way, feel free to use the Tailwind CSS Portfolio Template! <br/>",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "start": "npx tailwindcss -i ./src/input.css -o ./src/output.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.45",
+    "tailwindcss": "^3.4.10"
+  }
+}
